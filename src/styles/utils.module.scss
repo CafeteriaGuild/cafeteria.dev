@@ -1,0 +1,13 @@
+.bgGradient {
+  background: hsl(40, 100%, 50%);
+  background: linear-gradient(
+      145deg,
+      hsl(40, 100%, 50%) 0%,
+      hsl(40, 100%, 60%) 50%,
+      hsl(40, 100%, 40%) 100%
+  );
+
+  @media (prefers-color-scheme: dark) {
+    background: hsl(0, 0%, 21%);
+  }
+}

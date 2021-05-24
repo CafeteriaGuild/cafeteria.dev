@@ -1,0 +1,14 @@
+.CanecoAuto {
+  display: inline;
+
+  &[src*="dark"] {
+    display: none;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    display: none;
+    &[src*="dark"] {
+      display: inline !important;
+    }
+  }
+}
