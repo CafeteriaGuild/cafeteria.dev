@@ -1,0 +1,11 @@
+{
+  "id": "keybinds-galore",
+  "title": "Keybings Galore",
+  "description": "Adds a popup menu when a conflicting keybind is pressed.",
+  "icon": "keybinds-galore",
+  "links": {
+    "curseforge": "keybinds-galore",
+    "modrinth": "keybinds-galore",
+    "github": "CaelTheColher/keybinds-galore"
+  }
+}

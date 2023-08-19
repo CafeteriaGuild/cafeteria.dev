@@ -1,0 +1,97 @@
+.modlist {
+    flex-wrap: wrap;
+    display: flex;
+    margin-bottom: 5rem;
+}
+
+.modlist_anchor {
+    display: block; position: relative; top: -60px; visibility: hidden;
+}
+
+.featureSvg {
+    border-radius: 50%;
+    width: 6rem;
+    -webkit-transition: border-radius 0.5s;
+    transition: border-radius 0.5s;
+    background-color: #3F3E58;
+    cursor: pointer;
+}
+
+.card {
+    display: inline-block;
+    border-radius: 50%;
+    width: calc(14% - 15px);
+    margin-right: 1rem;
+    -webkit-transition: scale 0.3s;
+    transition: scale 0.3s;
+}
+
+.selected {
+    scale: 1.2;
+}
+
+.selected .featureSvg {
+    border-radius: 25px;
+}
+
+.spotlight {
+    display: flex;
+    height: 100%;
+    margin-left: 8rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+
+}
+
+.highlight {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-left: solid white;
+    padding-left:1rem;
+    width: 50rem;
+    height: 95%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+
+}
+
+[data-theme='light'] .highlight{
+    border-left: solid black;
+}
+
+.modicon {
+    margin-top: 0;
+    margin-bottom: 3%;
+    background-color: #3F3E58;
+    width: 20%;
+    position: relative;
+    border-radius: 10px;
+}
+
+.modtitle, .moddesc {
+    margin: 0;
+}
+
+.buttons {
+    margin-top: 2%;
+    margin-bottom: 3%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.highlightbtn {
+    height: 3rem;
+    margin-right: 3%;
+    width: 3rem;
+}
+
+.highlightbtn img {
+    height: 90%;
+    float: left;
+    margin: 2%;
+}
+
+.hidden {
+    display: none;
+}

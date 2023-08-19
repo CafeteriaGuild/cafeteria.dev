@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  font-size: 200px;
+  text-align: center;
+}

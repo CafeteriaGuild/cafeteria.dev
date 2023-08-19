@@ -1,0 +1,10 @@
+{
+  "id": "lifts",
+  "title": "Lifts",
+  "description": "A technology mod that adds various lifts for better vertical traversal inside your world.",
+  "links": {
+    "curseforge": "lifts",
+    "modrinth": "lifts",
+    "github": "lucaargolo/lifts"
+  }
+}

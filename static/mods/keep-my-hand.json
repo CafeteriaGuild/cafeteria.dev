@@ -1,0 +1,11 @@
+{
+  "id": "keep-my-hand",
+  "title": "Keep My Hand",
+  "description": "Keeps your hand from being hidden with the UI when you press F1",
+  "icon": "keep-my-hand",
+  "links": {
+    "curseforge": "keep-my-hand",
+    "modrinth": "keep-my-hand",
+    "github": "CaelTheColher/Keep-My-Hand"
+  }
+}

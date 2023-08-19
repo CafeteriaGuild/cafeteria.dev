@@ -1,0 +1,10 @@
+{
+  "id": "fuel-info",
+  "title": "FuelInfo",
+  "description": "Extend your info on your fuels when using a furnace/brewing stand.",
+  "links": {
+    "curseforge": "fuel-info",
+    "modrinth": "fuel-info",
+    "github": "Luligabi1/FuelInfo"
+  }
+}

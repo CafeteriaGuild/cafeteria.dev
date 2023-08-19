@@ -1,0 +1,10 @@
+{
+  "id": "fabric-seasons",
+  "title": "Fabric Seasons",
+  "description": "A simple mod that adds seasons to the game, dynamically changing biomes as you play.",
+  "links": {
+    "curseforge": "fabric-seasons",
+    "modrinth": "fabric-seasons",
+    "github": "lucaargolo/fabric-seasons"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "biome-creeper",
+  "title": "Biome Creeper",
+  "description": "A small mod to make the Creeper's texture change according to the biome they're in.",
+  "links": {
+    "curseforge": "biome-creeper",
+    "modrinth": "biome-creeper",
+    "github": "lucaargolo/biome-creeper"
+  }
+}
