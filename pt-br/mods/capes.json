@@ -1,0 +1,10 @@
+{
+  "id": "capes",
+  "title": "Capes",
+  "description": "Lets you use capes from OptiFine, LabyMod and other cape mods",
+  "links": {
+    "curseforge": "capes",
+    "modrinth": "capes",
+    "github": "CaelTheColher/Capes"
+  }
+}

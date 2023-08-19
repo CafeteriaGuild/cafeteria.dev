@@ -1,0 +1,10 @@
+{
+  "id": "extra-generators",
+  "title": "Extra Generators",
+  "description": "A technology mod that adds a variety of generators to your world.",
+  "links": {
+    "curseforge": "extra-generators",
+    "modrinth": "extra-generators",
+    "github": "lucaargolo/extra-generators"
+  }
+}

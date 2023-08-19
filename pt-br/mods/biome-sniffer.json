@@ -1,0 +1,10 @@
+{
+  "id": "biome-sniffer",
+  "title": "Biome Sniffer",
+  "description": "A small mod to make the Sniffer's texture change according to the biome they're in.",
+  "links": {
+    "curseforge": "biome-sniffer",
+    "modrinth": "biome-sniffer",
+    "github": "lucaargolo/biome-sniffer"
+  }
+}

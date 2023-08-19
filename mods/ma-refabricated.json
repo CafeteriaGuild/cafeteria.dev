@@ -1,0 +1,10 @@
+{
+  "id": "mystical-agriculture",
+  "title": "Mystical Agriculture: Refabricated",
+  "description": "Fabric port of Mystical Agriculture",
+  "icon": "ma-refabricated",
+  "links": {
+    "curseforge": "mystical-agriculture-refabricated",
+    "github": "AlexSa1000/MysticalAgriculture-Refabricated"
+  }
+}

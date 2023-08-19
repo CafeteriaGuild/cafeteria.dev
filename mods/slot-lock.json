@@ -1,0 +1,11 @@
+{
+  "id": "slot-lock",
+  "title": "Slot Lock",
+  "description": "A simple client-side mod that let you lock your slots.",
+  "icon": "slot-lock",
+  "links": {
+    "curseforge": "slot-lock",
+    "modrinth": "slot-lock",
+    "github": "lucaargolo/slot-lock"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "no-indium",
+  "title": "No Indium?",
+  "description": "Warns users using Sodium without Indium as to reduce rendering issues caused.",
+  "links": {
+    "curseforge": "no-indium",
+    "modrinth": "no-indium",
+    "github": "Luligabi1/no-indium"
+  }
+}

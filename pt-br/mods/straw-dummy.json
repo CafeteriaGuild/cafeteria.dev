@@ -1,0 +1,10 @@
+{
+  "id": "straw-dummy",
+  "title": "Straw Dummy",
+  "description": "Craft a dummy out of straw with infinite health for you to test your weapons!",
+  "links": {
+    "curseforge": "straw-dummy",
+    "modrinth": "straw-dummy",
+    "github": "GabrielOlvH/straw-dummy"
+  }
+}

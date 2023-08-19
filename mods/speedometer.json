@@ -1,0 +1,10 @@
+{
+  "id": "speedometer",
+  "title": "Speedometer",
+  "description": "A simple but effective speed measuring tool!",
+  "links": {
+    "curseforge": "speedometer",
+    "modrinth": "speedometer-cafeteria",
+    "github": "CafeteriaGuild/speedometer"
+  }
+}

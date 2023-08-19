@@ -1,0 +1,10 @@
+{
+  "id": "entity-banners",
+  "title": "Entity Banners",
+  "description": "A mod strongly inspired by Terraria, which adds entity-specific banners that increase damage and defense against the entity for players nearby.",
+  "links": {
+    "curseforge": "entity-banners",
+    "modrinth": "entity-banners",
+    "github": "lucaargolo/entity-banners"
+  }
+}

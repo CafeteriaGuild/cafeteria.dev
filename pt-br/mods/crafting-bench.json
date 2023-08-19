@@ -1,0 +1,10 @@
+{
+  "id": "crafting-bench",
+  "title": "Crafting Bench",
+  "description": "A utility mod that adds a custom crafting table with semi-automatic crafting.",
+  "links": {
+    "curseforge": "crafting-bench",
+    "modrinth": "crafting-bench",
+    "github": "lucaargolo/crafting-bench"
+  }
+}

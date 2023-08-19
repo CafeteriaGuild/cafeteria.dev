@@ -1,0 +1,10 @@
+{
+  "id": "carrier",
+  "title": "Carrier",
+  "description": "Allows you to carry chests, entities, spawners and barrels without breaking them!",
+  "links": {
+    "curseforge": "carrier",
+    "modrinth": "carrier",
+    "github": "GabrielOlvH/carrier"
+  }
+}

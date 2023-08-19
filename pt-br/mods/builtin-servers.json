@@ -1,0 +1,10 @@
+{
+  "id": "builtin-servers",
+  "title": "Builtin Servers",
+  "description": "A small mod that lets modpack makers set up built-in servers instead of shipping a preconfigured server.dat file",
+  "links": {
+    "curseforge": "builtin-servers",
+    "modrinth": "builtin-servers",
+    "github": "lucaargolo/builtin-servers"
+  }
+}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_classic_typescript=self.webpackChunkdocusaurus_classic_typescript||[]).push([[4372],{3101:s=>{s.exports=JSON.parse('{"permalink":"/pt-br/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

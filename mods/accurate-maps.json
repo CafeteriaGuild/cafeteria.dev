@@ -1,0 +1,10 @@
+{
+  "id": "accurate-maps",
+  "title": "Accurate Maps",
+  "description": "A small quality of life mod that changes the vanilla map coloring to be more accurate to in-game colors.",
+  "links": {
+    "curseforge": "accurate-maps",
+    "modrinth": "accurate-maps",
+    "github": "lucaargolo/accurate-maps"
+  }
+}

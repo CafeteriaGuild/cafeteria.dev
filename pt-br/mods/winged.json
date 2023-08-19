@@ -1,0 +1,10 @@
+{
+  "id": "winged",
+  "title": "Winged",
+  "description": "Quit using Elytras!",
+  "links": {
+    "curseforge": "winged",
+    "modrinth": "winged",
+    "github": "CafeteriaGuild/winged"
+  }
+}
