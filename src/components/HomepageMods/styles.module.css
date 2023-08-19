@@ -21,6 +21,7 @@
     display: inline-block;
     border-radius: 50%;
     width: calc(14% - 15px);
+    min-width: 32px;
     margin-right: 1rem;
     -webkit-transition: scale 0.3s;
     transition: scale 0.3s;
