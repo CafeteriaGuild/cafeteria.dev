@@ -13,17 +13,17 @@ const config = {
   favicon: 'img/favicon.svg',
 
   // Set the production url of your site here
-  url: 'https://gabrielolvh.github.io/',
+  url: 'https://cafeteria.dev/',
   trailingSlash: false,
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/test-docs/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'GabrielOlvH', // Usually your GitHub org/user name.
-  projectName: 'test-docs', // Usually your repo name.
-  deploymentBranch: 'main',
+  organizationName: 'CafeteriaGuild', // Usually your GitHub org/user name.
+  projectName: 'cafeteria.dev', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
