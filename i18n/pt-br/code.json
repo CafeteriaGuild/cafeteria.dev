@@ -1,7 +1,24 @@
 {
-  "Mods for Fabric!": {
-    "message": "Mods de fabric!!!!!",
-    "description": "main page heading"
+  "Learn about our mods": {
+    "message": "Learn about our mods"
+  },
+  "Meet our members": {
+    "message": "Meet our members"
+  },
+  "At Cafeteria we have loads of mods, ranging from simple utility mods to magic, tech and other mods loaded with features for you!": {
+    "message": "At Cafeteria we have loads of mods, ranging from simple utility mods to magic, tech and other mods loaded with features for you!"
+  },
+  "We have lots of members, developers and artists, developing mods as their favorite hobby!": {
+    "message": "We have lots of members, developers and artists, developing mods as their favorite hobby!"
+  },
+  "Go to page": {
+    "message": "Go to page"
+  },
+  "Check out our collection of": {
+    "message": "Check out our collection of"
+  },
+  "mods!": {
+    "message": "mods!"
   },
   "theme.ErrorPageContent.title": {
     "message": "This page crashed.",
@@ -18,6 +35,18 @@
   "theme.NotFound.p2": {
     "message": "Entre em contato com o proprietário do site que lhe trouxe para cá e lhe informe que o link está quebrado.",
     "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "Volte para o topo",
+    "description": "The ARIA label for the back to top button"
+  },
+  "theme.blog.archive.title": {
+    "message": "Arquivo",
+    "description": "The page & hero title of the blog archive page"
+  },
+  "theme.blog.archive.description": {
+    "message": "Arquivo",
+    "description": "The page & hero description of the blog archive page"
   },
   "theme.admonition.note": {
     "message": "note",
@@ -38,18 +67,6 @@
   "theme.admonition.caution": {
     "message": "caution",
     "description": "The default label used for the Caution admonition (:::caution)"
-  },
-  "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Volte para o topo",
-    "description": "The ARIA label for the back to top button"
-  },
-  "theme.blog.archive.title": {
-    "message": "Arquivo",
-    "description": "The page & hero title of the blog archive page"
-  },
-  "theme.blog.archive.description": {
-    "message": "Arquivo",
-    "description": "The page & hero description of the blog archive page"
   },
   "theme.blog.paginator.navAriaLabel": {
     "message": "Navegação da página de listagem do blog",
@@ -273,23 +290,5 @@
   "theme.tags.tagsPageTitle": {
     "message": "Marcadores",
     "description": "The title of the tag list page"
-  },
-  "Learn about our mods": {
-    "message": "Conheça nossos mods"
-  },
-  "Meet our members": {
-    "message": "Conheça nossos membros"
-  },
-  "At Cafeteria we have loads of mods, ranging from simple utility mods to magic, tech and other mods loaded with features for you!": {
-    "message": "Aqui temos mods desde simples mods de utilidades para mods magicos, tecnologicos e outros carregados de coisas para você!"
-  },
-  "We have lots of members, developers and artists, developing mods as their favorite hobby!": {
-    "message": "Temos muitos membros, entre desenvolvedores e artistas, que trabalham nesses mods como hobby!"
-  },
-  "Check out our collection of": {
-    "message": "Confira nossa coleção de"
-  },
-  "mods!": {
-    "message": "mods!"
   }
 }

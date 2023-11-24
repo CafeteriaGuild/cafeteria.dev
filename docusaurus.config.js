@@ -43,17 +43,9 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-              'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-              'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -138,9 +130,9 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'pixelpets',
-        path: 'pixelpets',
-        routeBasePath: 'pixelpets',
+        id: 'wiki',
+        path: 'wiki',
+        routeBasePath: 'wiki',
         sidebarPath: require.resolve('./sidebars.js'),
       },
     ]

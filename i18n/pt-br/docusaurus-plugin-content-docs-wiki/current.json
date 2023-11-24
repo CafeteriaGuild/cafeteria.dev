@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "´Próxima",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Incantationem": {
+    "message": "Incantationem",
+    "description": "The label for category Incantationem in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Content": {
+    "message": "Conteúdo",
+    "description": "The label for category Content in sidebar tutorialSidebar"
+  }
+}
