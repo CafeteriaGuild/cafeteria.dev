@@ -68,13 +68,33 @@ const config = {
           },
           items: [
             {
-              icon: 'https://cdn.simpleicons.org/discord/d6cda3',
-              to: 'https://discord.com/invite/G4PjhEf',
+              icon: 'https://cdn.simpleicons.org/googledocs/d6cda3',
+              to: '/wiki/start',
 
               position: 'left',
-              className: 'dc'
+              className: 'wiki-navbar'
             },
+            {
+              icon: 'https://cdn.simpleicons.org/discord/d6cda3',
+              href: 'https://discord.com/invite/G4PjhEf',
 
+              position: 'left',
+              className: 'discord-navbar'
+            },
+            {
+              icon: 'https://cdn.simpleicons.org/curseforge/d6cda3',
+              href: 'https://www.curseforge.com/members/cafeteriaguild/projects',
+
+              position: 'left',
+              className: 'curseforge-navbar'
+            },
+            {
+              icon: 'https://cdn.simpleicons.org/modrinth/d6cda3',
+              href: 'https://modrinth.com/user/CafeteriaGuild',
+
+              position: 'left',
+              className: 'modrinth-navbar'
+            },
             {
               type: 'localeDropdown',
               position: 'right',

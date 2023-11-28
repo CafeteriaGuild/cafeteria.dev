@@ -29,7 +29,21 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-.dc {
+.wiki-navbar {
+  background: url('https://cdn.simpleicons.org/googledocs/black/white') no-repeat;
+  height: 24px;
+  width: 24px;
+
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.wiki-navbar:hover {
+  background: url('https://cdn.simpleicons.org/googledocs/FF9900') no-repeat;
+}
+
+
+.discord-navbar {
   background: url('https://cdn.simpleicons.org/discord/black/white') no-repeat;
   height: 24px;
   width: 24px;
@@ -38,6 +52,33 @@
   transition: .4s;
 }
 
-.dc:hover {
+.discord-navbar:hover {
   background: url('https://cdn.simpleicons.org/discord/FF9900') no-repeat;
+}
+
+
+.curseforge-navbar {
+  background: url('https://cdn.simpleicons.org/curseforge/black/white') no-repeat;
+  height: 24px;
+  width: 24px;
+
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.curseforge-navbar:hover {
+  background: url('https://cdn.simpleicons.org/curseforge/FF9900') no-repeat;
+}
+
+.modrinth-navbar {
+  background: url('https://cdn.simpleicons.org/modrinth/black/white') no-repeat;
+  height: 24px;
+  width: 24px;
+
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.modrinth-navbar:hover {
+  background: url('https://cdn.simpleicons.org/modrinth/FF9900') no-repeat;
 }
