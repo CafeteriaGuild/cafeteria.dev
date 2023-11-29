@@ -1,5 +1,6 @@
 ---
 title: Curses
+description: A list of all curses added by Incantationem
 sidebar_position: 1
 ---
 

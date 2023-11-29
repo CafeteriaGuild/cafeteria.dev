@@ -1,5 +1,6 @@
 ---
 title: Maldições
+description: Lista de todas as maldições do Incantationem
 sidebar_position: 1
 ---
 

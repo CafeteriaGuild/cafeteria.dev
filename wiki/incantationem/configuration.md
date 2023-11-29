@@ -1,5 +1,6 @@
 ---
 title: Configuration
+description: How to modify enchantment properties and their incompatibilities between each other
 sidebar_position: 3
 ---
 

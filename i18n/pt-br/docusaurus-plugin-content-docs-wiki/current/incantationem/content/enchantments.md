@@ -1,5 +1,6 @@
 ---
 title: Encantamentos
+description: Lista de todos os encantamentos do Incantationem
 sidebar_position: 0
 ---
 

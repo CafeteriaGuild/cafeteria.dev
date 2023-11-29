@@ -1,5 +1,6 @@
 ---
 title: Configuração
+description: Como mudar propriedades de encantamentos e suas incompatibilidades entre si
 sidebar_position: 3
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Incantationem
+description: Incantationem 101
 sidebar_position: 1
 hide_title: true
 ---

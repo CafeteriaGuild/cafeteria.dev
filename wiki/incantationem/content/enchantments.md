@@ -1,5 +1,6 @@
 ---
 title: Enchantments
+description: A list of all enchantments added by Incantationem
 sidebar_position: 0
 ---
 
