@@ -28,8 +28,8 @@ export default function Home(): JSX.Element {
             description="">
             <HomepageHeader/>
             <main>
-                <HomepageFeatures/>
-                <HomepageMods/>
+                {/*<HomepageFeatures/> 
+                <HomepageMods/>*/}
             </main>
         </Layout>
     );
