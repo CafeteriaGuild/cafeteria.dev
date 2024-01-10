@@ -3,6 +3,10 @@
     "message": "´Próxima",
     "description": "The label for version current"
   },
+  "sidebar.tutorialSidebar.category.coxinha-utilities": {
+    "message": "Coxinha Utilities",
+    "description": "The label for category coxinha-utilities in sidebar tutorialSidebar"
+  },
   "sidebar.tutorialSidebar.category.Incantationem": {
     "message": "Incantationem",
     "description": "The label for category Incantationem in sidebar tutorialSidebar"
