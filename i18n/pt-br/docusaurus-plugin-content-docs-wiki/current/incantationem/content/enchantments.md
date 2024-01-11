@@ -57,7 +57,7 @@ Aleatoriamente deflete projéteis atirados no usuário. O efeito acumula entre d
 * **Nivel Máximo:** 3
 * **Raridade** Raro
 * **Disponível na Mesa de Encantamentos?** Não
-* **Incompatível com:** [Maldição da Imprudência](./curses#maldição-da-imprudência)
+* **Incompatível com:** [Fortuna](https://pt.minecraft.wiki/w/Fortuna), [Toque Suave](https://pt.minecraft.wiki/w/Toque_suave), [Maldição da Imprudência](./curses#maldição-da-imprudência)
 
 Blocos quebrados serão aleatoriamente esquentados (ex.: transformar minérios de ouro em barras de ouro)
 
