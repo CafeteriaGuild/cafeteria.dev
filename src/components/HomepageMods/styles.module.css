@@ -31,8 +31,13 @@
     scale: 1.2;
 }
 
-.selected .featureSvg {
+.selected.featureSvg {
     border-radius: 25px;
+}
+
+.featureSvg.selected.forceSelected {
+    border: solid 4px #FF9900;
+    box-sizing: border-box;
 }
 
 .spotlight {

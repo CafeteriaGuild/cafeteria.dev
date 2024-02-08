@@ -4,7 +4,6 @@ import styles from './styles.module.css';
 
 import Link from '@docusaurus/Link';
 import Translate from "@docusaurus/Translate";
-import { ModList } from '@site/src/components/HomepageMods'
 
 type FeatureItem = {
   title: JSX.Element;
