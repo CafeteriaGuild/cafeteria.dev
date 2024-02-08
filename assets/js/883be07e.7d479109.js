@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_classic_typescript=self.webpackChunkdocusaurus_classic_typescript||[]).push([[374],{8384:(s,u,c)=>{c.r(u),c.d(u,{default:()=>a});c(7294);var t=c(6550),r=c(5893);function a(){return(0,r.jsx)(t.l_,{to:"/wiki/start/"})}}}]);
