@@ -57,7 +57,7 @@ Randomly deflects projectiles thrown at the user. The effect stacks across all a
 * **Max. Level:** 3
 * **Rarity:** Rare
 * **Available on Enchantment table?** No
-* **Incompatible with:** [Fortune](https://minecraft.wiki/w/Fortune), [Silk Touch](https://minecraft.wiki/w/Silk_Touch), [Curse of Recklessness](./curses#curse-of-recklessness)
+* **Incompatible with:** [Silk Touch](https://minecraft.wiki/w/Silk_Touch), [Curse of Recklessness](./curses#curse-of-recklessness)
 
 Randomly smelts blocks you break (such as turning gold ores into gold ingots). Each level increases chances of smelting. 
 
