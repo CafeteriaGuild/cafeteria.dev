@@ -8,28 +8,24 @@ Todo encantamento e maldição adicionados pelo Incantationem podem ter suas man
 
 ### Terminologia
 
-**Nível máximo**: O maior nível que este encantamento pode ser normalmente. Esta opção não está disponível em encantamentos específicos nem em todas as maldições.
+**Baseado em Sorte**: Se os efeitos deste encantamento devem ser ativados através de sorte ou toda vez.
 
-**Disponível aleatoriamente**: Permite que este encantamento/maldição seja obtido através da Mesa de Encantamento e baús em estruturas simples/iniciais`*`
+**Taxa de Sucesso**: Se baseado em sorte, quão frequentemente, em porcentagem, este encantamento deve ser ativado. 
 
-**Disponível em trocas de livros**: Permite que este encantamento/maldição seja obtido através de trocas com Aldeões`*`
-
-**Disponível como tesouro**: Permite que este encantamento seja obtido através de baús em estruturas complexas/avançadas`*`
-
-
-`*` Inclui livros e equipamento encantado.
+**Exibir Mensagem de Aplicação**: Se uma mensagem deve ser mostrada quando encantamentos baseados em sorte são ativados; note que se você estiver conectado(a) a um servidor em que isto está desativado, sua preferência será ignorada.
 
 ## Modificando a incompatibilidade entre encantamentos
 
 Cada lista de incompatibilidade é gerenciada por [tags](https://pt.minecraft.wiki/w/Marca%C3%A7%C3%A3o), que podem ser alteradas através do [KubeJS](https://kubejs.com/) ou [Data Packs](https://pt.minecraft.wiki/w/Pacote_de_dados). Todas as tags seguem o seguinte formato:
 
-- `incantationem:*_incompatible`
+- `incantationem:exclusive_set/<id>`
 
-Onde * é o nome do encantamento internamente; todos os nomes internos podem ser checados com o autocomplete do comando `/enchant @p incantationem:` (requer trapaças).
+Os ids de todos encantamentos podem ser checados com o autocomplete do comando `/enchant @p incantationem:` (requer trapaças).
+
 
 ### Exemplo de arquivo de tag
 
-```json title="data/incantationem/tags/enchantment/charmed.json"
+```json title="data/incantationem/tags/enchantment/exclusive_set/charmed.json"
 {
   "replace": false,
   "values": [
