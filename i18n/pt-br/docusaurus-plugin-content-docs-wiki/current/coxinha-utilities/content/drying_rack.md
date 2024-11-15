@@ -1,6 +1,8 @@
 ---
 sidebar_position: 6
 ---
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 # Laje de Secar
 
@@ -24,7 +26,27 @@ Se o [Kibe Utilities](https://www.curseforge.com/minecraft/mc-mods/kibe) está i
 
 ### Adicionando receitas personalizadas 
 
-Receitas podem ser adicionados através de Data Packs utilizando o formato abaixo:
+Receitas podem ser adicionadas através de [Data Packs](https://pt.minecraft.wiki/w/Pacote_de_dados) utilizando o formato abaixo:
+
+<Tabs>
+<TabItem value="twenty-one" label="1.21+">
+
+```json
+{
+  "type": "coxinhautilities:drying",
+
+  "ingredient": {
+    "item": "minecraft:chorus_fruit"
+  },
+  "result": {
+    "id": "minecraft:popped_chorus_fruit"
+  },
+  "dryingTime": 240
+}
+```
+
+</TabItem>
+<TabItem value="twenty" label="1.20-">
 
 ```json
 {
@@ -38,8 +60,10 @@ Receitas podem ser adicionados através de Data Packs utilizando o formato abaix
 }
 ```
 
-`ingredient` - `item` ou `tag` podem ser usados; é o item original;
+</TabItem>
+</Tabs>
 
-`outputItem` - o id do item pós-secagem;
 
-`dryingTime` - quanto tempo levará para um item ser secado em ticks (20 ticks = 1 segundo).
+- `ingredient` pode ser um `item` ou `tag`;
+
+- `dryingTime` é medido em ticks (20 ticks = 1 segundo).

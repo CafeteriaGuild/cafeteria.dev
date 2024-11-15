@@ -1,6 +1,8 @@
 ---
 sidebar_position: 5
 ---
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 # Drying Rack
 
@@ -22,7 +24,27 @@ If [Kibe Utilities](https://www.curseforge.com/minecraft/mc-mods/kibe) is instal
 ![](/img/coxinha/recipes/drying_rack/hopper.png)
 ### Adding custom recipes
 
-Recipes can be added through Data Packs following the schema bellow:
+Recipes can be added through [Data Packs](https://minecraft.wiki/w/Data_pack) following the schema bellow:
+
+<Tabs>
+<TabItem value="twenty-one" label="1.21+">
+
+```json
+{
+  "type": "coxinhautilities:drying",
+
+  "ingredient": {
+    "item": "minecraft:chorus_fruit"
+  },
+  "result": {
+    "id": "minecraft:popped_chorus_fruit"
+  },
+  "dryingTime": 240
+}
+```
+
+</TabItem>
+<TabItem value="twenty" label="1.20-">
 
 ```json
 {
@@ -36,8 +58,10 @@ Recipes can be added through Data Packs following the schema bellow:
 }
 ```
 
-`ingredient` - can be either an `item` or `tag`, is the input of the recipe;
+</TabItem>
+</Tabs>
 
-`outputItem` - the id of the resulting item
 
-`dryingTime` - how long it'll take for the item to be dried in ticks (20 ticks = 1 second)
+- `ingredient` can be either an `item` or `tag`;
+
+- `dryingTime` is measured in ticks (20 ticks = 1 second).
